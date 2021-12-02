@@ -1,0 +1,46 @@
+[{
+    "id": "100",
+    "MovieName": "Oh Manapenne",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmI3MGE0NjAtOWU5NS00ZjM5LWI4NTEtMjJlNzEwYWI0Y2U2XkEyXkFqcGdeQXVyMTIwNDYzMjIz._V1_.jpg",
+    "rating": 8,
+    "summary": "Oh Manapenne! is a 2021 Indian Tamil-language romantic comedy film directed by Kaarthikk Sundar in his directorial debut and written by Deepak Sundarrajan. A remake of the Telugu film Pelli Choopulu, it stars Harish Kalyan and Priya Bhavani Shankar as a boy and girl who meet during a matchmaking event",
+    "trailer": "https://www.youtube.com/embed/G0E7UgF5csk",
+    "language":"tamil"
+},
+{
+    "id": "101",
+    "MovieName": "Shang-Chi",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8,
+    "summary": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+    "trailer": "https://www.youtube.com/embed/giWIr7U1deA",
+    "language":"chinesee"
+},
+{
+    "id": "102",
+    "MovieName": "Iron Man 3",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
+    "rating": 8,
+    "summary": " When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "trailer": "https://www.youtube.com/embed/Ke1Y3P9D0Bc",
+    "language":"english"
+},
+{
+    "id": "103",
+    "MovieName": "Jai Bhim",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+    "rating": 9,
+    "summary": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice..",
+    "trailer": "https://www.youtube.com/embed/Gc6dEDnL8JA",
+    "language":"tamil"
+},
+{
+    "id": "104",
+    "MovieName": "sherni",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjJmMzYyN2ItMzU0NS00MmYyLWI0ZDQtMjFmMWJkYWQ2YjYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+    "rating": 8,
+    "summary": "An upright Forest Officer who strives for balance in a world of man-animal conflict while she also seeks her true calling in a hostile environment.",
+    "trailer": "https://www.youtube.com/embed/o2wg-11MWFU",
+    "language":"tamil"
+}
+]
